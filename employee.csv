@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Role,Salary,PerformanceRating,ExperienceYears
+101,Alice,IT,Developer,85000,4,5
+102,Bob,HR,Manager,75000,3,8
+103,Charlie,Finance,Analyst,65000,4,4
+104,David,IT,Developer,90000,5,7
+105,Eva,Finance,Analyst,62000,2,3
+106,Frank,HR,Executive,55000,3,2
+107,Grace,IT,Tester,60000,4,4
+108,Helen,Finance,Manager,95000,5,10
+109,Ian,IT,Architect,120000,5,12
+110,Judy,HR,Manager,80000,4,9
