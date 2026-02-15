@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv("data/employee_data.csv")
+df = pd.read_csv(r"C:\Users\user\Desktop\ff\data\employee.csv")
 
 # Basic overview
 print("Dataset Preview:")
